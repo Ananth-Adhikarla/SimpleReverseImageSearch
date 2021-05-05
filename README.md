@@ -15,5 +15,4 @@ SAMPLE OUTPUT
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-![Screenshot from 2021-05-05 11-46-17](https://user-images.githubusercontent.com/30688325/117103393-e9da5900-ad97-11eb-845e-2980c9de0953.png)
-
+![Screenshot from 2021-05-05 14-43-05](https://user-images.githubusercontent.com/30688325/117119960-5c573300-adb0-11eb-8fb1-348c75bfd3e6.png)
